@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 9 - Słowo kluczowe this
 
 ### Jak uruchomić?
 
